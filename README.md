@@ -1,4 +1,4 @@
 ![1000084285](https://github.com/user-attachments/assets/8364519e-b3e2-4cdd-8a49-f85c03cad265)
-[index.html](https://github.com/user-attachments/files/22439589/index.html.txt)
+[index.html](https://github.com/user-attachments/files/22439589/)
 # marshal-website
 This is a personal project built by Marshal — blending creativity, mystery, and tech. Focused on pushing digital boundaries and learning something new every day.  > 💡 Curious. 🔒 Secure. 💻 Coded with passion.
